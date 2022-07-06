@@ -14121,7 +14121,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"html-escaper@npm:^2.0.0, html-escaper@npm:^2.0.2":
+"html-escaper@npm:^2.0.0":
   version: 2.0.2
   resolution: "html-escaper@npm:2.0.2"
   checksum: 208e8a12de1a6569edbb14544f4567e6ce8ecc30b9394fcaa4e7bb1e60c12a7c9a1ed27e31290817157e8626f3a4f29e76c8747030822eb84a6abb15c255f0a0
@@ -20771,12 +20771,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-i18next@npm:^11.15.4":
-  version: 11.17.0
-  resolution: "react-i18next@npm:11.17.0"
+"react-i18next@npm:11.18.0":
+  version: 11.18.0
+  resolution: "react-i18next@npm:11.18.0"
   dependencies:
     "@babel/runtime": ^7.14.5
-    html-escaper: ^2.0.2
     html-parse-stringify: ^3.0.1
   peerDependencies:
     i18next: ">= 19.0.0"
@@ -20786,7 +20785,7 @@ __metadata:
       optional: true
     react-native:
       optional: true
-  checksum: 50053ad94f6515dcf767875347491e11a451e3e9dedaa4bffd1d174910b010779777fa66201e9eccf5e8945cf5ec276d0d035bb038b5301be058425dd4066a16
+  checksum: 165dfd1b7efe5ce2153c5a0d343bcae15f40449dea371159f5411b95815abae35d8e86fc32605c939d7673b2ba103b29b6fedca333fd3eb438db01fe5bf5e9ff
   languageName: node
   linkType: hard
 
@@ -24933,7 +24932,7 @@ __metadata:
     react: 17.0.2
     react-dom: 17.0.2
     react-highlight: ^0.14.0
-    react-i18next: ^11.15.4
+    react-i18next: 11.18.0
     react-markdown: ^8.0.0
     sass: ^1.49.7
     sass-loader: ^12.6.0
